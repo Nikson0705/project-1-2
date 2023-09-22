@@ -10,6 +10,14 @@
 @import url('./features.css');
 @import url('./video.css');
 @import url('./customers.css');
+@import url('./contact.css');
+@import url('./file1.css');
+@import url('./file2.css');
+@import url('./file3.css');
+@import url('./file4.css');
+@import url('./file5.css');
+@import url('./file6.css');
+@import url('./file7.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
